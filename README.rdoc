@@ -3,3 +3,4 @@
 Things you may want to cover:
 
 http://guides.rubyonrails.org/getting_started.html
+
